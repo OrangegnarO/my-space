@@ -1,25 +1,21 @@
-## Welcome to GitHub Pages
+## I am a designer and researcher based in London
 
-You can use the [editor on GitHub](https://github.com/OrangegnarO/my-space/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+#### Grassroots approach; INCLUSIVITY; User Centred Design; Design Research. Tackling complex issues; Providing iterative, actionable solutions.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I work both independently and with teams within design and research organisations such as Studio Raw and The Open Data Institute, completing projects for a divers rage of clients; Impact Hub, Bankside Open Space Trust Bristol City Hall & Lewisham Council. Here is a link to some of my favorite projects I completed over the years.
 
-### Markdown
+Humanising Data
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Acomlishments
 
-```markdown
-Syntax highlighted code block
+- Speaker, Co-Designing the City, July 2018
+- Exhibition, London Design Week, September 2015
 
-# Header 1
-## Header 2
-### Header 3
+### Some recently completed projects
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
+1. Mind the Gaps [Link] https://mind-the-gaps.org
+2. Impact report
+3. Comunity Consultaions
 
 **Bold** and _Italic_ and `Code` text
 
