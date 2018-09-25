@@ -15,4 +15,4 @@ _Humanising Data_
 
 1. Mind the Gaps [https://mind-the-gaps.org]
 2. Impact report
-3. Comunity Consultaions
+3. Community Consultaions
