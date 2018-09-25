@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## I am a designer and researcher based in London
 
-You can use the [editor on GitHub](https://github.com/OrangegnarO/my-space/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+#### Grassroots approach; INCLUSIVITY; User Centred Design; Design Research. Tackling complex issues; Providing iterative, actionable solutions.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I work both independently and with teams within design and research organisations such as Studio Raw and The Open Data Institute, completing projects for a divers rage of clients; Impact Hub, Bankside Open Space Trust Bristol City Hall & Lewisham Council. Here is a link to some of my favorite projects I completed over the years.
 
-### Markdown
+_Humanising Data_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Acomlishments
 
-```markdown
-Syntax highlighted code block
+- Speaker, Co-Designing the City, July 2018
+- Exhibition, London Design Week, September 2015
 
-# Header 1
-## Header 2
-### Header 3
+### Some recently completed projects
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OrangegnarO/my-space/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Mind the Gaps [https://mind-the-gaps.org]
+2. Impact report
+3. Community Consultaions
